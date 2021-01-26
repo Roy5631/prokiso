@@ -1,0 +1,9 @@
+numpy==1.18.5
+gensim==3.8.0
+mecab-python3==0.996.2
+scipy==1.5.2
+Flask==1.1.1
+flask_cors==3.0.9
+google-cloud-storage==1.28.1
+gcsfs==0.7.1
+google-cloud-logging
